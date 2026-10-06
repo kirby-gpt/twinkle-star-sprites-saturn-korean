@@ -1,0 +1,37 @@
+{
+  "platform": "Sega Saturn",
+  "fonts": [
+    {
+      "family": "Pretendard",
+      "weight": "Regular",
+      "source_file": "Pretendard-1.3.9/public/static/alternative/Pretendard-Regular.ttf",
+      "package_version": "1.3.9",
+      "font_name_table_version": "Version 1.309",
+      "sha256": "6d0af5258997aec7354a6e340fc2325ba321c410ca48b3af858c8c3d6e92a324",
+      "copyright": "Copyright © 2023 Kil Hyung-jin (font metadata); packaged license Copyright (c) 2021 Kil Hyung-jin",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "family": "Pretendard",
+      "weight": "Black",
+      "source_file": "Pretendard-1.3.9/public/static/alternative/Pretendard-Black.ttf",
+      "package_version": "1.3.9",
+      "font_name_table_version": "Version 1.309",
+      "sha256": "0a7c1fd65a599f9d25de860cc832ea9ac40c207775e33eb4344a4647392a2b5d",
+      "copyright": "Copyright © 2023 Kil Hyung-jin (font metadata); packaged license Copyright (c) 2021 Kil Hyung-jin",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "family": "Pretendard",
+      "weight": "SemiBold",
+      "source_file": "Pretendard-1.3.9/public/static/alternative/Pretendard-SemiBold.ttf",
+      "package_version": "1.3.9",
+      "font_name_table_version": "Version 1.309",
+      "sha256": "5e1c548732af70873103066c16e1369b9a8a871f0b38c321a1d5bc73e43cea2d",
+      "copyright": "Copyright © 2023 Kil Hyung-jin (font metadata); packaged license Copyright (c) 2021 Kil Hyung-jin",
+      "license": "SIL Open Font License 1.1"
+    }
+  ],
+  "license_file": "FONT-LICENSE.txt",
+  "notes": "Native bitmap rendering. Stats use SemiBold up to 11px. Score units use Black up to 7px and have known readability defects. No Galmuri/Dalmoori. Historical R2 custom stat glyphs superseded."
+}

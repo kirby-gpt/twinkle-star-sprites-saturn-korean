@@ -1,0 +1,11 @@
+{
+  "version": "v0.1.0-beta.1",
+  "multi_file_original_cue_to_r3_1_exact": true,
+  "single_original_bin_to_r3_1_exact": true,
+  "all_26_original_tracks_unchanged_after_test": true,
+  "already_patched_image_rejected_before_output": true,
+  "existing_output_not_overwritten": true,
+  "output_sha256": "7e46e1135e689627f58c438035284e5d044e12dbd26eb09b1bda2c02883e8b88",
+  "output_cue_matches_expected": true,
+  "gameplay_tested_by_this_test": false
+}

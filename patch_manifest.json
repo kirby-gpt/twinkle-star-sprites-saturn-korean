@@ -1,0 +1,143 @@
+{
+  "version": "v0.1.0-beta.1",
+  "basis": "R3.1, unchanged",
+  "format": "gzip XOR of Track 01 bytes; remaining tracks unchanged",
+  "game": "Twinkle Star Sprites (Japan), Sega Saturn, Disc 1, T-37301G V1.003",
+  "tracks": [
+    {
+      "number": 1,
+      "size": 225222816,
+      "sha256": "5d74b494f33511e0f81f45e75df4196ac25c86c5e22409c76991cb621a99583f"
+    },
+    {
+      "number": 2,
+      "size": 77145600,
+      "sha256": "4915cb7599b9cd52d631db07de1a1b1eb392f90000a16a309b55cb0e1ad948c7"
+    },
+    {
+      "number": 3,
+      "size": 4974480,
+      "sha256": "b9ad1dbe78be4a7f9e799e9f5a5458695898baac6bdc15e1cc3902e23c3bfa54"
+    },
+    {
+      "number": 4,
+      "size": 21788928,
+      "sha256": "a8bf1820078b377db088f69a090b20c74838b11375cfe3ada8ba941f5a7a2824"
+    },
+    {
+      "number": 5,
+      "size": 26951568,
+      "sha256": "aec58ddddd407a1c76ef0b39b907873f475393d1b12ee8ded3314a90f3cb981f"
+    },
+    {
+      "number": 6,
+      "size": 27217344,
+      "sha256": "590c4eaffc5438e241f40fb13fe740db44bcf6e0daa679b77719f23799bef577"
+    },
+    {
+      "number": 7,
+      "size": 21979440,
+      "sha256": "f08b97dd97fa5379789dea1e4909b3e4f91a30f745a975a87c9a36bd83cf2020"
+    },
+    {
+      "number": 8,
+      "size": 26570544,
+      "sha256": "a822cc3f8cf4b0426af8f1d90e1aa6d1a09f5cdbcbc272b6b3b65001caf95988"
+    },
+    {
+      "number": 9,
+      "size": 24630144,
+      "sha256": "4d39ae40f4122c6719a3f1d8df1bfa54f80403af6b56fa9f2cebc9546b18b7a6"
+    },
+    {
+      "number": 10,
+      "size": 21045696,
+      "sha256": "2faa65df43af2d77de1c926a288b25607f5cf4b5cf8d5e3a3e5a163da2e69dbe"
+    },
+    {
+      "number": 11,
+      "size": 22635648,
+      "sha256": "a08edbd43f0cb405e770375b51f4063c3063dac99fe0090ea3ada8327e2b7d22"
+    },
+    {
+      "number": 12,
+      "size": 29348256,
+      "sha256": "4e981f6bafd2cfc555f7547f3b03a689c3cf4ffd95959f018ebadb2b0d8cd31d"
+    },
+    {
+      "number": 13,
+      "size": 29310624,
+      "sha256": "8b171e73b5fc168b086c3d62cbd34fb1b1014d96e5c954a10f84e2bf3f6f0854"
+    },
+    {
+      "number": 14,
+      "size": 29472912,
+      "sha256": "50691a6f7f7ab4be0ded90666a1a6358a5e23f1ddf1edd2df61027b622bdc2d9"
+    },
+    {
+      "number": 15,
+      "size": 28988400,
+      "sha256": "45c49098775a637fefcd7b6a86b802ada1f529aeb515c787de22cf797e23c2ea"
+    },
+    {
+      "number": 16,
+      "size": 1192464,
+      "sha256": "2616225164ea3d50dd395fc6f92243c395c1839e65d6d2b0926c2c2a2af1d005"
+    },
+    {
+      "number": 17,
+      "size": 7599312,
+      "sha256": "ecd3dc205f07d80736bfca5ce7df642b1d2f46bff341944f75614171f298d13d"
+    },
+    {
+      "number": 18,
+      "size": 3883152,
+      "sha256": "47a31ebd7ac68de867e6d8f373da04e603274c029545ac08a8111d9f4f677a5f"
+    },
+    {
+      "number": 19,
+      "size": 1180704,
+      "sha256": "11c53169f55966389c74c5993ece59c4bd20269a31bdba53726e81bc5cdb4813"
+    },
+    {
+      "number": 20,
+      "size": 9175152,
+      "sha256": "b28d1d417ebe279d6ab0d4adbc35337427375ea0caf8991957f5509ab26110a0"
+    },
+    {
+      "number": 21,
+      "size": 6529152,
+      "sha256": "2992996e882b24d4f3d5dc5d7bb6dcf58ab8d00bbf1ab147fe8345459b60d293"
+    },
+    {
+      "number": 22,
+      "size": 1154832,
+      "sha256": "c855e3742f21a22eb1abfb83db801cbca060dd46a1b8515897ddb03584c6757e"
+    },
+    {
+      "number": 23,
+      "size": 2439024,
+      "sha256": "a02945b32c8a2bf86790756bb20b6249ea3ca5149d3533a7146a9591f2a9dc51"
+    },
+    {
+      "number": 24,
+      "size": 1206576,
+      "sha256": "f49548e5839b5019bb95a8485530e718d2265ba9d046a86c14301d9c8f20ac61"
+    },
+    {
+      "number": 25,
+      "size": 1615824,
+      "sha256": "cc74be78be7b46a8c766f47ea0f4f9ca7e98afc1044f3391ddd6bfffbcd243c8"
+    },
+    {
+      "number": 26,
+      "size": 11362512,
+      "sha256": "596a919a068a0ddc50b9c0aade5d521372c2d552b677ecc5dabca339b241bd69"
+    }
+  ],
+  "delta_sha256": "53f0e7955ee2996a05c562099780d54ab7c4de85f6d8536d154585c5c5cf891e",
+  "output_sha256": "7e46e1135e689627f58c438035284e5d044e12dbd26eb09b1bda2c02883e8b88",
+  "output_bin": "Twinkle_Star_Sprites_Japan_Disc1_KO_v0.1.0-beta.1.bin",
+  "output_cue": "Twinkle_Star_Sprites_Japan_Disc1_KO_v0.1.0-beta.1.cue",
+  "cue_text": "FILE \"Twinkle_Star_Sprites_Japan_Disc1_KO_v0.1.0-beta.1.bin\" BINARY\n  TRACK 01 MODE1/2352\n    INDEX 01 00:00:00\n  TRACK 02 MODE2/2352\n    INDEX 00 21:16:58\n    INDEX 01 21:19:58\n  TRACK 03 AUDIO\n    INDEX 00 28:34:08\n    INDEX 01 28:36:08\n  TRACK 04 AUDIO\n    INDEX 00 29:02:23\n    INDEX 01 29:04:23\n  TRACK 05 AUDIO\n    INDEX 00 31:05:62\n    INDEX 01 31:07:62\n  TRACK 06 AUDIO\n    INDEX 00 33:38:46\n    INDEX 01 33:40:46\n  TRACK 07 AUDIO\n    INDEX 00 36:12:68\n    INDEX 01 36:14:68\n  TRACK 08 AUDIO\n    INDEX 00 38:17:38\n    INDEX 01 38:19:38\n  TRACK 09 AUDIO\n    INDEX 00 40:48:10\n    INDEX 01 40:50:10\n  TRACK 10 AUDIO\n    INDEX 00 43:07:57\n    INDEX 01 43:09:57\n  TRACK 11 AUDIO\n    INDEX 00 45:07:05\n    INDEX 01 45:09:05\n  TRACK 12 AUDIO\n    INDEX 00 47:15:29\n    INDEX 01 47:17:29\n  TRACK 13 AUDIO\n    INDEX 00 50:01:57\n    INDEX 01 50:03:57\n  TRACK 14 AUDIO\n    INDEX 00 52:47:69\n    INDEX 01 52:49:69\n  TRACK 15 AUDIO\n    INDEX 00 55:35:00\n    INDEX 01 55:37:00\n  TRACK 16 AUDIO\n    INDEX 00 58:19:25\n    INDEX 01 58:21:25\n  TRACK 17 AUDIO\n    INDEX 00 58:26:07\n    INDEX 01 58:28:07\n  TRACK 18 AUDIO\n    INDEX 00 59:09:13\n    INDEX 01 59:11:13\n  TRACK 19 AUDIO\n    INDEX 00 59:31:14\n    INDEX 01 59:33:14\n  TRACK 20 AUDIO\n    INDEX 00 59:37:66\n    INDEX 01 59:39:66\n  TRACK 21 AUDIO\n    INDEX 00 60:29:67\n    INDEX 01 60:31:67\n  TRACK 22 AUDIO\n    INDEX 00 61:06:68\n    INDEX 01 61:08:68\n  TRACK 23 AUDIO\n    INDEX 00 61:13:34\n    INDEX 01 61:15:34\n  TRACK 24 AUDIO\n    INDEX 00 61:27:21\n    INDEX 01 61:29:21\n  TRACK 25 AUDIO\n    INDEX 00 61:34:09\n    INDEX 01 61:36:09\n  TRACK 26 AUDIO\n    INDEX 00 61:43:21\n    INDEX 01 61:45:21\n"
+}
