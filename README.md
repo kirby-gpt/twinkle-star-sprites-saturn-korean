@@ -4,7 +4,18 @@
 
 현재 R3.1 작업본을 그대로 공개하는 테스트용 베타입니다. 완성판이나 전체 플레이 검증 완료판이 아닙니다. Disc 2 오마케는 대상이 아닙니다.
 
-## 다운로드
+## xdelta 배포 추가 — 2026-10-11
+
+기존 R3.1 게임 데이터는 그대로이며, Python 없이 외부 xdelta 패처로 적용하는 두 형식을 추가했습니다. ZIP 안의 README를 먼저 읽어 주세요. 자체 EXE는 포함하지 않습니다.
+
+| 파일 | 대상 | 결과 |
+|---|---|---|
+| [BIN용 xdelta ZIP](https://github.com/kirby-gpt/twinkle-star-sprites-saturn-korean/releases/download/v0.1.0-beta.1/TSS_Saturn_KO_v0.1.0-beta.1_BIN_xdelta.zip) | 분할 원본 Track 01 BIN | 한글 Track 01; 다른 트랙과 CUE 유지 |
+| [CHD용 xdelta ZIP](https://github.com/kirby-gpt/twinkle-star-sprites-saturn-korean/releases/download/v0.1.0-beta.1/TSS_Saturn_KO_v0.1.0-beta.1_CHD_xdelta.zip) | 지정 SHA-256의 원본 CHD | 한글 CHD 한 파일 |
+
+CHD는 아무 원본 CHD에나 적용되지 않습니다. 해시가 다르면 BIN용을 적용한 뒤 CUE 전체를 CHD로 변환하세요. ES-DE에는 완성된 CHD 하나를 넣고 CHD 지원 에뮬레이터를 선택하면 됩니다. 두 형식의 적용 결과와 26개 트랙 보존을 검사했으며, ES-DE 실행 검증은 별도로 하지 않았습니다. 기존 Python 패키지도 대안으로 유지합니다.
+
+## 기존 Python 방식 다운로드
 
 [GitHub 베타 다운로드](https://github.com/kirby-gpt/twinkle-star-sprites-saturn-korean/releases/tag/v0.1.0-beta.1)에서 `TSS_Saturn_KO_v0.1.0-beta.1_patch.zip`을 받으세요. 패치에는 ROM, BIOS, 에뮬레이터가 포함되지 않습니다.
 
@@ -18,7 +29,7 @@
 - 다른 모드·모든 캐릭터·엔딩 전체 검증은 미완료이며 전체 완성률은 산정하지 않았습니다. 아케이드 모드 검수 완료가 알려진 글꼴 문제의 해결을 의미하지는 않습니다.
 - Yabause 0.9.15에서 부팅과 일부 화면은 확인했지만, 전 구간 정상 동작을 보장하는 검증은 하지 못했습니다. 기기·에뮬레이터별 호환성 제보를 받습니다.
 
-## 준비물과 원본 정보
+## 기존 Python 방식 준비물과 원본 정보
 
 - 압축을 해제한 일본판 Disc 1 원본 CUE와 BIN 26개. 동일한 데이터를 합친 단일 BIN도 지원합니다.
 - Python 3.10 이상(Windows에서는 tkinter와 Python Launcher를 포함한 일반 설치 권장).
@@ -34,7 +45,7 @@
 
 모든 트랙의 크기와 해시는 `patch_manifest.json`에 있습니다. 이미 패치된 이미지, 다른 리비전, 일반 ISO, CHD에는 직접 적용하지 않습니다.
 
-## 패치 사용법 — Windows
+## 기존 Python 방식 패치 사용법 — Windows
 
 1. 패치 ZIP을 새 폴더에 모두 압축 해제합니다.
 2. 원본 게임 압축 파일도 해제합니다. 원본 CUE와 26개 BIN 파일은 같은 폴더에 둡니다.
